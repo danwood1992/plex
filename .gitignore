@@ -1,0 +1,5 @@
+/media/*
+/config/*
+.env/
+.env
+./.env/
